@@ -1,0 +1,1 @@
+Este proyecto busca listar productos en una atividad java android,que dando click a un boton pueda hacer que lleve a otra pantalla que permita agregar un producto,haciendo uso de inputs y un spiner para escoger un modelo del producto(modelo que solo puede ser seleccionado por las opciones que hay en el spinner)
