@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="brandsList">
+        <item>Lenovo</item>
+        <item>Logitech</item>
+        <item>Dell</item>
+        <item>Toshiba</item>
+    </string-array>
+</resources>
